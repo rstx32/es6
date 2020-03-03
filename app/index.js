@@ -1,1 +1,1 @@
-console.log('HELLO ES6, BABEL, WEBPACK');
+console.log('HELLO ES6, BABEL, WEBPACK code by rstx');
